@@ -1,0 +1,6 @@
+ COmpras:
+
+1- Maçã
+2- Uva
+3- Arroz
+4- Frango
